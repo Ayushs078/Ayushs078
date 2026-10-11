@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="64" viewBox="0 0 900 64" role="img" aria-label="Full Stack Python Developer, AI/ML, LLMs, Agentic AI, Blockchain Enthusiast, Technical Educator">
+<rect x="1" y="1" width="898" height="62" rx="12" fill="#0B0F14" stroke="#1E2A3A"/>
+<text x="24" y="40" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" font-weight="700" fill="#FF9F1C">$</text>
+
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" font-weight="700">
+<text x="60" y="40" fill="#E6EDF3" opacity="1">Full Stack Python Developer
+<animate attributeName="opacity" calcMode="discrete" keyTimes="0;0.19;1" values="1;0;0" dur="15s" repeatCount="indefinite"/></text>
+<rect y="10" height="44" fill="#0B0F14" x="60" width="388">
+<animate attributeName="width" keyTimes="0;0.01;0.09;1" values="388;388;0;0" dur="15s" repeatCount="indefinite"/>
+<animate attributeName="x" keyTimes="0;0.01;0.09;1" values="60;60;448;448" dur="15s" repeatCount="indefinite"/></rect>
+<rect y="12" height="40" width="10" fill="#22D3EE" x="60">
+<animate attributeName="x" keyTimes="0;0.01;0.09;1" values="60;60;448;448" dur="15s" repeatCount="indefinite"/>
+<animate attributeName="opacity" calcMode="discrete" keyTimes="0;0.19;1" values="1;0;0" dur="15s" repeatCount="indefinite"/></rect>
+
+<text x="60" y="40" fill="#E6EDF3" opacity="0">AI / ML  ·  LLMs  ·  Agentic AI
+<animate attributeName="opacity" calcMode="discrete" keyTimes="0;0.2;0.39;1" values="0;1;0;0" dur="15s" repeatCount="indefinite"/></text>
+<rect y="10" height="44" fill="#0B0F14" x="60" width="446">
+<animate attributeName="width" keyTimes="0;0.21;0.29;1" values="446;446;0;0" dur="15s" repeatCount="indefinite"/>
+<animate attributeName="x" keyTimes="0;0.21;0.29;1" values="60;60;506;506" dur="15s" repeatCount="indefinite"/></rect>
+<rect y="12" height="40" width="10" fill="#22D3EE" x="60" opacity="0">
+<animate attributeName="x" keyTimes="0;0.21;0.29;1" values="60;60;506;506" dur="15s" repeatCount="indefinite"/>
+<animate attributeName="opacity" calcMode="discrete" keyTimes="0;0.2;0.39;1" values="0;1;0;0" dur="15s" repeatCount="indefinite"/></rect>
+
+<text x="60" y="40" fill="#E6EDF3" opacity="0">Blockchain Enthusiast
+<animate attributeName="opacity" calcMode="discrete" keyTimes="0;0.4;0.59;1" values="0;1;0;0" dur="15s" repeatCount="indefinite"/></text>
+<rect y="10" height="44" fill="#0B0F14" x="60" width="302">
+<animate attributeName="width" keyTimes="0;0.41;0.49;1" values="302;302;0;0" dur="15s" repeatCount="indefinite"/>
+<animate attributeName="x" keyTimes="0;0.41;0.49;1" values="60;60;362;362" dur="15s" repeatCount="indefinite"/></rect>
+<rect y="12" height="40" width="10" fill="#22D3EE" x="60" opacity="0">
+<animate attributeName="x" keyTimes="0;0.41;0.49;1" values="60;60;362;362" dur="15s" repeatCount="indefinite"/>
+<animate attributeName="opacity" calcMode="discrete" keyTimes="0;0.4;0.59;1" values="0;1;0;0" dur="15s" repeatCount="indefinite"/></rect>
+
+<text x="60" y="40" fill="#E6EDF3" opacity="0">Building Secure &amp; Intelligent Apps
+<animate attributeName="opacity" calcMode="discrete" keyTimes="0;0.6;0.79;1" values="0;1;0;0" dur="15s" repeatCount="indefinite"/></text>
+<rect y="10" height="44" fill="#0B0F14" x="60" width="490">
+<animate attributeName="width" keyTimes="0;0.61;0.69;1" values="490;490;0;0" dur="15s" repeatCount="indefinite"/>
+<animate attributeName="x" keyTimes="0;0.61;0.69;1" values="60;60;550;550" dur="15s" repeatCount="indefinite"/></rect>
+<rect y="12" height="40" width="10" fill="#22D3EE" x="60" opacity="0">
+<animate attributeName="x" keyTimes="0;0.61;0.69;1" values="60;60;550;550" dur="15s" repeatCount="indefinite"/>
+<animate attributeName="opacity" calcMode="discrete" keyTimes="0;0.6;0.79;1" values="0;1;0;0" dur="15s" repeatCount="indefinite"/></rect>
+
+<text x="60" y="40" fill="#E6EDF3" opacity="0">Technical Educator &amp; Student Leader
+<animate attributeName="opacity" calcMode="discrete" keyTimes="0;0.8;0.99;1" values="0;1;0;0" dur="15s" repeatCount="indefinite"/></text>
+<rect y="10" height="44" fill="#0B0F14" x="60" width="504">
+<animate attributeName="width" keyTimes="0;0.81;0.89;1" values="504;504;0;0" dur="15s" repeatCount="indefinite"/>
+<animate attributeName="x" keyTimes="0;0.81;0.89;1" values="60;60;564;564" dur="15s" repeatCount="indefinite"/></rect>
+<rect y="12" height="40" width="10" fill="#22D3EE" x="60" opacity="0">
+<animate attributeName="x" keyTimes="0;0.81;0.89;1" values="60;60;564;564" dur="15s" repeatCount="indefinite"/>
+<animate attributeName="opacity" calcMode="discrete" keyTimes="0;0.8;0.99;1" values="0;1;0;0" dur="15s" repeatCount="indefinite"/></rect>
+</g>
+</svg>

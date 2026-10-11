@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Ayush Suryawanshi - Full Stack Python Developer, AI/ML, Blockchain">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#05080D"/><stop offset="1" stop-color="#0F1722"/></linearGradient>
+<linearGradient id="title" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FF9F1C"/><stop offset="0.55" stop-color="#FFD166"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+<radialGradient id="glow" cx="0.18" cy="0.5" r="0.6"><stop offset="0" stop-color="#FF9F1C" stop-opacity="0.28"/><stop offset="1" stop-color="#FF9F1C" stop-opacity="0"/></radialGradient>
+<radialGradient id="glow2" cx="0.92" cy="0.15" r="0.5"><stop offset="0" stop-color="#22D3EE" stop-opacity="0.22"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+<linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#22D3EE" stop-opacity="0"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0.25"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#1E2A3A" stroke-width="1"/></pattern>
+</defs>
+
+<rect width="1200" height="320" fill="url(#bg)"/>
+<rect width="1200" height="320" fill="url(#grid)" opacity="0.6"/>
+<rect width="1200" height="320" fill="url(#glow)"/>
+<rect width="1200" height="320" fill="url(#glow2)"/>
+
+<rect x="0" y="-60" width="1200" height="60" fill="url(#scan)">
+<animate attributeName="y" values="-60;320" dur="5s" repeatCount="indefinite"/>
+</rect>
+
+<g stroke="#22D3EE" stroke-opacity="0.25" stroke-width="1" fill="none">
+<polyline points="860,40 930,80 1010,60 1090,110 1160,90"/>
+<polyline points="930,80 960,150 1040,170 1090,110"/>
+<polyline points="960,150 900,210 980,250"/>
+</g>
+<g fill="#22D3EE">
+<circle cx="860" cy="40" r="3"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="930" cy="80" r="4"><animate attributeName="opacity" values="1;0.3;1" dur="3s" repeatCount="indefinite"/></circle>
+<circle cx="1010" cy="60" r="3"><animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/></circle>
+<circle cx="1090" cy="110" r="4"><animate attributeName="opacity" values="1;0.3;1" dur="2.8s" repeatCount="indefinite"/></circle>
+<circle cx="1160" cy="90" r="3"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.4s" repeatCount="indefinite"/></circle>
+<circle cx="960" cy="150" r="4"><animate attributeName="opacity" values="1;0.3;1" dur="2.2s" repeatCount="indefinite"/></circle>
+<circle cx="1040" cy="170" r="3"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.1s" repeatCount="indefinite"/></circle>
+<circle cx="900" cy="210" r="3"><animate attributeName="opacity" values="1;0.3;1" dur="2.6s" repeatCount="indefinite"/></circle>
+<circle cx="980" cy="250" r="4"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.6s" repeatCount="indefinite"/></circle>
+</g>
+
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" fill="#FF9F1C" opacity="0.5">
+<text x="1100" y="190">{ }<animateTransform attributeName="transform" type="translate" values="0 0;0 -12;0 0" dur="4s" repeatCount="indefinite"/></text>
+<text x="1030" y="285">&lt;/&gt;<animateTransform attributeName="transform" type="translate" values="0 0;0 10;0 0" dur="5s" repeatCount="indefinite"/></text>
+<text x="800" y="120">AI<animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="3.5s" repeatCount="indefinite"/></text>
+<text x="1120" y="270">0x<animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="4.5s" repeatCount="indefinite"/></text>
+</g>
+
+<g transform="translate(130 150)">
+<circle r="80" fill="none" stroke="#FF9F1C" stroke-opacity="0.4" stroke-width="2" stroke-dasharray="6 10">
+<animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/>
+</circle>
+<circle r="64" fill="none" stroke="#22D3EE" stroke-opacity="0.55" stroke-width="2" stroke-dasharray="40 24">
+<animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="16s" repeatCount="indefinite"/>
+</circle>
+<polygon points="0,-48 42,-24 42,24 0,48 -42,24 -42,-24" fill="#0B0F14" stroke="url(#title)" stroke-width="3"/>
+<text x="0" y="12" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="32" font-weight="800" fill="url(#title)">AS</text>
+</g>
+
+<text x="250" y="140" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="2" fill="url(#title)">AYUSH SURYAWANSHI</text>
+<text x="252" y="182" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" letter-spacing="1.5" fill="#22D3EE">FULL STACK PYTHON DEVELOPER • AI / ML • BLOCKCHAIN • CYBER-AWARE</text>
+<text x="252" y="218" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#8B98A5">Building intelligent, secure and scalable web applications  |  B.Tech IT @ GECA  |  Technical Educator</text>
+
+<rect x="0" y="292" width="1200" height="28" fill="#05080D" opacity="0.9"/>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">
+<text x="24" y="311" fill="#3FB950">● ONLINE<animate attributeName="opacity" values="1;0.35;1" dur="1.6s" repeatCount="indefinite"/></text>
+<text x="1176" y="311" text-anchor="end" fill="#8B98A5">Python · Django · FastAPI · React · LLMs · Agentic AI · Blockchain</text>
+</g>
+</svg>
