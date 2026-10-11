@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="38" viewBox="0 0 780 38" role="img" aria-label="Cyber Hygiene Practitioner C-DAC, Cyber Ethics MeitY, Cyber Crime Analysis System">
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="700" letter-spacing="1">
+<g><rect x="0" y="4" width="307" height="30" rx="6" fill="#3FB950"/><text x="153.5" y="23" text-anchor="middle" fill="#0B0F14">CYBER HYGIENE PRACTITIONER · C-DAC</text>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" dur="3s" begin="0s" repeatCount="indefinite"/></g>
+<g><rect x="315" y="4" width="192" height="30" rx="6" fill="#3FB950"/><text x="411" y="23" text-anchor="middle" fill="#0B0F14">CYBER ETHICS · MeitY</text>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" dur="3s" begin="0.4s" repeatCount="indefinite"/></g>
+<g><rect x="515" y="4" width="260" height="30" rx="6" fill="#0B0F14" stroke="#3FB950"/><text x="645" y="23" text-anchor="middle" fill="#3FB950">CYBER CRIME ANALYSIS SYSTEM</text>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" dur="3s" begin="0.8s" repeatCount="indefinite"/></g>
+</g>
+</svg>

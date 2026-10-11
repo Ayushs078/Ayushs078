@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="38" viewBox="0 0 820 38" role="img" aria-label="Machine Learning, Deep Learning, Generative AI, LLMs, Agentic AI, OCR, Blockchain">
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="700" letter-spacing="1">
+<g><rect x="0" y="4" width="159" height="30" rx="6" fill="#FF9F1C"/><text x="79.5" y="23" text-anchor="middle" fill="#0B0F14">MACHINE LEARNING</text>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" dur="3s" begin="0s" repeatCount="indefinite"/></g>
+<g><rect x="167" y="4" width="135" height="30" rx="6" fill="#FF9F1C"/><text x="234.5" y="23" text-anchor="middle" fill="#0B0F14">DEEP LEARNING</text>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" dur="3s" begin="0.3s" repeatCount="indefinite"/></g>
+<g><rect x="310" y="4" width="135" height="30" rx="6" fill="#22D3EE"/><text x="377.5" y="23" text-anchor="middle" fill="#0B0F14">GENERATIVE AI</text>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" dur="3s" begin="0.6s" repeatCount="indefinite"/></g>
+<g><rect x="453" y="4" width="61" height="30" rx="6" fill="#22D3EE"/><text x="483.5" y="23" text-anchor="middle" fill="#0B0F14">LLMS</text>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" dur="3s" begin="0.9s" repeatCount="indefinite"/></g>
+<g><rect x="522" y="4" width="110" height="30" rx="6" fill="#22D3EE"/><text x="577" y="23" text-anchor="middle" fill="#0B0F14">AGENTIC AI</text>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" dur="3s" begin="1.2s" repeatCount="indefinite"/></g>
+<g><rect x="640" y="4" width="53" height="30" rx="6" fill="#FF9F1C"/><text x="666.5" y="23" text-anchor="middle" fill="#0B0F14">OCR</text>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" dur="3s" begin="1.5s" repeatCount="indefinite"/></g>
+<g><rect x="701" y="4" width="110" height="30" rx="6" fill="#7C3AED"/><text x="756" y="23" text-anchor="middle" fill="#FFFFFF">BLOCKCHAIN</text>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" dur="3s" begin="1.8s" repeatCount="indefinite"/></g>
+</g>
+</svg>

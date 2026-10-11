@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="38" viewBox="0 0 600 38" role="img" aria-label="Focus: AI/ML and Full Stack. Status: Building projects. CGPA 9.32">
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="700" letter-spacing="1">
+<g>
+<rect x="1" y="4" width="233" height="30" rx="6" fill="#0B0F14" stroke="#22D3EE"/>
+<text x="117.5" y="23" text-anchor="middle" fill="#22D3EE">FOCUS: AI/ML &amp; FULL STACK</text>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" dur="3s" repeatCount="indefinite"/>
+</g>
+<g>
+<rect x="243" y="4" width="233" height="30" rx="6" fill="#0B0F14" stroke="#3FB950"/>
+<circle cx="260" cy="19" r="4" fill="#3FB950"><animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<text x="372" y="23" text-anchor="middle" fill="#3FB950">BUILDING PROJECTS</text>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" dur="3.4s" repeatCount="indefinite"/>
+</g>
+<g>
+<rect x="485" y="4" width="112" height="30" rx="6" fill="#0B0F14" stroke="#FF9F1C"/>
+<text x="541" y="23" text-anchor="middle" fill="#FF9F1C">CGPA 9.32</text>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" dur="3.8s" repeatCount="indefinite"/>
+</g>
+</g>
+</svg>
